@@ -31,7 +31,7 @@ export default function Header() {
                 </Link>
               </li> */}
               <li>
-                <Link href="https://github.com/PJI110-008/" target='_blank' className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
+                <Link href="https://github.com/PJI310-S01-G09" target='_blank' className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
                   <Image src={GithubLogo} alt="Github Logo" width={32} style={{ marginRight: '8px', filter: 'invert(1)' }} />
                   Github
                 </Link>
